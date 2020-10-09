@@ -8,5 +8,7 @@ Un blog increible para el curso de Platzi Git y GitHub
 * Manejo de GitHub
 * Comandos en la terminal
 * Uso de las buenas practicas
+* Jijiji nose
+* Tiene mas cosas pero no recuerdo
 
 Esto es un readme.md de prueba **is just a joke** bye
